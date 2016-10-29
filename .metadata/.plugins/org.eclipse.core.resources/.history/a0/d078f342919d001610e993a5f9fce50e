@@ -1,0 +1,5 @@
+package com.springsecurityexample.web;
+
+public class LoginController {
+
+}
